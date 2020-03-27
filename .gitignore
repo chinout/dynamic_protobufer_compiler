@@ -1,0 +1,5 @@
+.vscode/*
+build/*
+proto/linux/*
+proto/windows/*
+proto/out/*
